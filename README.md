@@ -1,12 +1,7 @@
 # bioinf_trabajopersonal
 
-En este fichero se explica el contenido de nuestro repositorio
+# Contenido
 
-segundo cambio
+## Exportar csv
 
-tercer cambio
-
-cuarto cambio
-
-quinto cambio
-cambio
+Hemos exportado un csv llamado *script_exportar.r*
